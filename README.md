@@ -1,3 +1,3 @@
 # demo
 
-some text
+Random repo I made trying to use and understand github. 
